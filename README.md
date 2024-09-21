@@ -7,12 +7,12 @@ This project aims to enhance banana production forecasts by leveraging advanced 
 The study compares several deep learning models such as GRU, RNN, Random Forest, XGBoost, Bidirectional LSTM, and Prophet, which show superior forecasting performance compared to traditional models like ARIMA and SARIMA.
 
 ## Models Utilized
-- 1.Gated Recurrent Unit (GRU)
-- 2.Recurrent Neural Network (RNN)
-- 3.Random Forest
-- 4.XGBoost
-- 5.Bidirectional Long Short-Term Memory (LSTM)
-- 6.Prophet
+- Gated Recurrent Unit (GRU)
+- Recurrent Neural Network (RNN)
+- Random Forest
+- XGBoost
+- Bidirectional Long Short-Term Memory (LSTM)
+- Prophet
 
 These models were used to predict banana production and optimize harvest management. The combination of models allowed for better forecasting, especially in handling complex time-series data with temporal dependencies.
 
