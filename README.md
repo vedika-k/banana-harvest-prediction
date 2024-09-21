@@ -1,4 +1,4 @@
-## banana-harvest-prediction
+## Banana-Harvest-Prediction
 This repository contains code and datasets for the project 
 ## A Deep Neural Network Approach for Enhancing Prediction Capabilities of Banana Harvesting Products
 ## Project Overview
