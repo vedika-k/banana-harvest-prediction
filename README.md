@@ -17,16 +17,16 @@ These models were used to predict banana production and optimize harvest managem
 ## Dataset Description
 The dataset comprises banana production data from 2007 to 2017 across multiple banana farms in Colombia. The following variables were used in model training and evaluation:
 
-- Farm: Identifies the farm where the production took place.
-- Year and Week: Denotes the time of production.
-- Hectares: Amount of land harvested during the period.
-- Actual Packing: Total fruit production.
-- Bunches Harvested by Type: Bunches harvested based on week of maturity (Week 8–13).
-- Total Harvested: Total bananas harvested during the period.
-- Total Boxes: Number of boxes produced.
-- Premium Boxes: Number of boxes with premium quality.
-- Short Fruit Boxes: Number of boxes with short fruit.
-- Company Forecast: Initial forecast provided by the company.
+- **Farm**: Identifies the farm where the production took place.
+- **Year and Week**: Denotes the time of production.
+- **Hectares**: Amount of land harvested during the period.
+- **Actual Packing**: Total fruit production.
+- **Bunches Harvested by Type**: Bunches harvested based on week of maturity (Week 8–13).
+- **Total Harvested**: Total bananas harvested during the period.
+- **Total Boxes**: Number of boxes produced.
+- **Premium Boxes**: Number of boxes with premium quality.
+- **Short Fruit Boxes**: Number of boxes with short fruit.
+- **Company Forecast**: Initial forecast provided by the company.
 
 ## Key Findings
 - Hybrid models (RNN + Random Forest + XGBoost) consistently outperformed traditional ARIMA and SARIMA models.
