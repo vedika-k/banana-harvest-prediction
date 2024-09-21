@@ -1,5 +1,3 @@
-## Banana-Harvest-Prediction
-This repository contains code and datasets for the project 
 ## A Deep Neural Network Approach for Enhancing Prediction Capabilities of Banana Harvesting Products
 ## Project Overview
 This project aims to enhance banana production forecasts by leveraging advanced machine learning models. The focus is on improving the prediction accuracy of banana yields in Colombia, which is crucial for efficient resource allocation, market planning, and agricultural management. Bananas are a significant contributor to Colombia's economy, representing 0.4% of the country's GDP and generating approximately USD 730 million annually.
@@ -34,3 +32,9 @@ The dataset comprises banana production data from 2007 to 2017 across multiple b
 - Hybrid models (RNN + Random Forest + XGBoost) consistently outperformed traditional ARIMA and SARIMA models.
 - GRU and Bidirectional LSTM captured long-term temporal dependencies, improving prediction accuracy for future harvests.
 - Prophet model provided effective long-term predictions and uncertainty estimates, making it useful for strategic planning
+
+## Results
+The models successfully improved the prediction accuracy of banana yields, with the **GRU** and **Prophet** models showing the best results. Using advanced machine learning models, the project demonstrates a clear advantage in forecasting banana production compared to traditional methods. These improvements can benefit 
+- Resource planning
+- Market analysis
+- Operational efficiency in banana agriculture
